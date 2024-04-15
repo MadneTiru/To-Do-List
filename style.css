@@ -227,7 +227,7 @@ body {
 .task {
     display: flex;
     gap: 0.5rem;
-    color: white;
+    color: black;
     align-items: center;
     font-size: 1rem;
     font-weight: 500;
